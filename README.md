@@ -1,0 +1,4 @@
+grunt-spritestudio
+==================
+
+grunt-spritestudio
